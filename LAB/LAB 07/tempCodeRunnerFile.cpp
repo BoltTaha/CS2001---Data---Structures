@@ -1,0 +1,2 @@
+ s.pop();
+    s.print();
